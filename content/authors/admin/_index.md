@@ -6,7 +6,7 @@ title: Austin Bailey
 superuser: true
 
 # Role/position/tagline
-role: Geophysicist, Data Scientist, Software Developer
+role: Geophysicist, Data Scientist, Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,6 +20,7 @@ bio: I live at the intersection between geoscience and software development.
 interests:
   - Geospatial analysis
   - Signal processing algorithms
+  - Python software development
   - Cloud computing/microservices
 
 # Education to show in About widget
@@ -64,4 +65,4 @@ highlight_name: true
 
 I am a geoscientist with experience in many facets of the oil business, including execution and planning of existing positions as well as exploration of prospective plays. My overall aim is to provide timely, economic, and robust solutions for the wide array of complex problems that are regularly faced by the participants in the industry.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
