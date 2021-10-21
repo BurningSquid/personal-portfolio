@@ -7,8 +7,8 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
-active: false
+weight: 20
+active: true
 
 title: Experience
 subtitle:
@@ -23,28 +23,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Founder/CEO
+    company: Strata Energy Consulting
+    company_url: "strataenergyconsulting.com"
+    company_logo: org-x
+    location: Tulsa, Oklahoma
+    date_start: "2021-06-01"
+    date_end: ""
+    description: Provide analytical solutions for oil and gas mineral holders and operators alike. Past projects include Net Asset Evaluation, seismic interpretation, python application development, spotfire analysis development, and more.
+
+  - title: Data Scientist/Python Developer
+    company: Coterra Energy
     company_url: ""
-    company_logo: org-gc
-    location: California
+    company_logo: org-x
+    location: Tulsa, Oklahoma
     date_start: "2021-01-01"
     date_end: ""
     description: |2-
+        Moved to a role focused on developing data analytics and ML-focused applications using python and Azure. Provided transitionary support for data science and ML workflows during merger between Cimarex Energy and Cabot Oil and Gas in late-2021.
+
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Python application development
+        * Cloud/microservice infrastructure
+        * ML pipeline development
+        * Model training and evaluation
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Region Geoscientist
+    company: Cimarex Energy Company
     company_url: ""
     company_logo: org-x
-    location: California
-    date_start: "2016-01-01"
+    location: Tulsa, Oklahoma
+    date_start: "2018-04-01"
     date_end: "2020-12-31"
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Served as geophysical/geological support for Oklahoma regional operations. Responsibilities included operations/development planning, multi-basin exploration, induced seismicity analysis, geoscience data analytics, seismic interpretation, and more.
+
+  - title: Geophysicist
+    company: Cimarex Energy Company
+    company_url: ""
+    company_logo: org-x
+    location: Tulsa, Oklahoma
+    date_start: "2016-01-01"
+    date_end: "2018-04-01"
+    description: Provided geophysical support for all regional teams, including project management, seismic processing, seismic inversion, interpretation, and other miscellaneous advisement.
 
 design:
   columns: "2"
