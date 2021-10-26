@@ -45,27 +45,27 @@ experience:
         Responsibilities include:
         
         * Python application development
-        * Cloud/microservice infrastructure
+        * Cloud/microservice architecture
         * ML pipeline development
-        * Model training and evaluation
+        * ML model training and evaluation
 
   - title: Region Geoscientist
     company: Cimarex Energy Company
     company_url: ""
     company_logo: org-x
     location: Tulsa, Oklahoma
-    date_start: "2018-04-01"
+    date_start: "2016-01-01"
     date_end: "2020-12-31"
     description: Served as geophysical/geological support for Oklahoma regional operations. Responsibilities included operations/development planning, multi-basin exploration, induced seismicity analysis, geoscience data analytics, seismic interpretation, and more.
 
-  - title: Geophysicist
+    - title: Test
     company: Cimarex Energy Company
     company_url: ""
     company_logo: org-x
     location: Tulsa, Oklahoma
     date_start: "2016-01-01"
-    date_end: "2018-04-01"
-    description: Provided geophysical support for all regional teams, including project management, seismic processing, seismic inversion, interpretation, and other miscellaneous advisement.
+    date_end: "2020-12-31"
+    description: Served as geophysical/geological support for Oklahoma regional operations. Responsibilities included operations/development planning, multi-basin exploration, induced seismicity analysis, geoscience data analytics, seismic interpretation, and more.
 
 design:
   columns: "2"
